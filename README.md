@@ -44,7 +44,6 @@ Mvtec AD
 | zipper      | 0.8851  | 0.9667  | 0.9063  |
 |-------------|---------|---------|---------|
 | Avg         | 0.8980  | 0.9561  | 0.9229  |
-| All Type    | 0.7482  | 0.8918  | 0.8465  |
 
 ## Citation
 If you find this code useful, please consider citing the original paper:

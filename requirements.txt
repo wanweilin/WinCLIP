@@ -1,0 +1,11 @@
+open_clip
+torch
+PIL
+tqdm
+numpy
+torchvision
+scikit-learn
+opencv-python
+pyyaml
+scipy
+imgaug

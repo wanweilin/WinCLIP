@@ -11,7 +11,7 @@ git clone https://github.com/wanweilin/WinCLIP.git
 ```
 cd WinCLIP
 pip install -r requirements.txt
-
+```
 ## Usage Examples
 
 ```

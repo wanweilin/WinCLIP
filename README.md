@@ -16,9 +16,13 @@ pip install -r requirements.txt
 
 ```
 python winclip_ac.py
+```
 
 ## Dataset
 Mvtec AD 
+
+## Todo
+1. Implement segmentation part
 
 ## Experimental Results
 | Obj Type    | AUROC   | AUPR    | F1-Max  |
@@ -56,4 +60,4 @@ If you find this code useful, please consider citing the original paper:
 ```
 
 ## Acknowledgements
-This project borrows some code from [OpenCLip](https://github.com/mlfoundations/open_clip) and [DRAEM](https://github.com/VitjanZ/DRAEM/tree/main), thanks for their admiring contributions~!
+This project borrows some code from [OpenCLip](https://github.com/mlfoundations/open_clip) and [DRAEM](https://github.com/VitjanZ/DRAEM/tree/main), thanks for their admiring contributions!
